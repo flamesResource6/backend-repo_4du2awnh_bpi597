@@ -1,15 +1,15 @@
 INFO:     Will watch for changes in these directories: ['/home/workspace']
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [152] using StatReload
-INFO:     Started server process [154]
+INFO:     Started reloader process [200] using StatReload
+INFO:     Started server process [202]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-INFO:     172.20.0.1:42286 - "HEAD / HTTP/1.1" 405 Method Not Allowed
-INFO:     172.20.0.1:49830 - "GET /api/last-foxes?limit=12 HTTP/1.1" 200 OK
-INFO:     172.20.0.1:49830 - "GET /api/last-foxes?limit=12 HTTP/1.1" 200 OK
-INFO:     172.20.0.1:49846 - "GET /api/bundles HTTP/1.1" 200 OK
-INFO:     172.20.0.1:49846 - "GET /api/bundles HTTP/1.1" 200 OK
-INFO:     172.20.0.1:54848 - "GET /api/last-foxes?limit=12 HTTP/1.1" 200 OK
-INFO:     172.20.0.1:54874 - "GET /api/last-foxes?limit=12 HTTP/1.1" 200 OK
-INFO:     172.20.0.1:54864 - "GET /api/bundles HTTP/1.1" 200 OK
-INFO:     172.20.0.1:54864 - "GET /api/bundles HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57152 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:57158 - "GET /api/last-foxes?limit=12 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57158 - "GET /api/last-foxes?limit=12 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57154 - "GET /api/bundles HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57154 - "GET /api/bundles HTTP/1.1" 200 OK
+INFO:     172.20.0.1:33982 - "GET /api/last-foxes?limit=12 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:33972 - "GET /api/bundles HTTP/1.1" 200 OK
+INFO:     172.20.0.1:33982 - "GET /api/last-foxes?limit=12 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:33972 - "GET /api/bundles HTTP/1.1" 200 OK
